@@ -19,7 +19,7 @@ MonoBehaviour:
   OrderInView: 0
   BackgroundImage: {fileID: 0}
   Title:
-    m_Untranslated: Lesson 6
+    m_Untranslated: Lesson 7
   Subtitle:
     m_Untranslated: Challenges
   Description:
@@ -28,18 +28,9 @@ MonoBehaviour:
   Sections:
   - OrderInView: 0
     Heading:
-      m_Untranslated: Easy
-    Text:
-      m_Untranslated: Lesson 6 Easy challenge
-    Metadata: 
-    Url: 
-    Image: {fileID: 0}
-    Tutorial: {fileID: 11400000, guid: 1489185062051c5439769c048694d1c1, type: 2}
-  - OrderInView: 0
-    Heading:
       m_Untranslated: Hard
     Text:
-      m_Untranslated: Lesson 6 Hard challenge
+      m_Untranslated: Lesson 7 Hard challenge
     Metadata: 
     Url: 
     Image: {fileID: 0}

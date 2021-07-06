@@ -37,8 +37,11 @@ MonoBehaviour:
       Title:
         m_Untranslated: Challenge Description
       Text:
-        m_Untranslated: 'Add one more Image Target to your database, and Implement
-          a unique interaction between 2 image targets in the scene. '
+        m_Untranslated: 'Using UI Elements, UI Events and Image Targets, create your
+          own "choose your adventure" story.
+
+          You can get inspired by
+          this example: https://www.youtube.com/watch?v=EvedPF7S3BU'
       m_Tutorial: {fileID: 0}
       m_Image: {fileID: 0}
       m_Video: {fileID: 0}

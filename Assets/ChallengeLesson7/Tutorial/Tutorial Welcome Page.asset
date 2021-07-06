@@ -14,13 +14,13 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   m_Image: {fileID: 0}
   m_WindowTitle:
-    m_Untranslated: Lesson 6 Challenges
+    m_Untranslated: Lesson 7 Challenges
   m_Title:
-    m_Untranslated: Lesson 6 Challenges
+    m_Untranslated: Lesson 7 Challenges
   m_Description:
     m_Untranslated: 'Access the tutorials for a walkthrough to the challenges solution.
 
-      
+
 
       Tutorials
       > Show Tutorials'
